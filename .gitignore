@@ -1,3 +1,7 @@
 
 .azure
 __azurite_db_table__.json
+
+.python_packages
+__pycache__
+.venv
